@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bug Bounty<br>🤝 I’m looking to Discover Vulnerabilities on Open Source Programs<br>🌱 I’m currently learning<br>
+🔭 I’m currently working on Bug Bounty<br>🤝 I’m looking to discover vulnerabilities on open source programs<br>🌱 I’m currently learning<br>
 
 
 
