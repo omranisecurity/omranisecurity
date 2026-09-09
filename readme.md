@@ -1,4 +1,4 @@
-# OmraniSecurity
+# OMRANISECURITY
 
 ## About Me
 - Bug Bounty Hunter
@@ -6,7 +6,7 @@
 - Cybersecurity Enthusiast
 
 ## Connect
-- Email: mr.omrani81@gmail.com
+- Email: <a href="mailto:mr.omrani81@gmail.com">mr.omrani81@gmail.com</a>
 - LinkedIn: https://www.linkedin.com/in/omranisecurity/
 
 ---
