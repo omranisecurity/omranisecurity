@@ -1,13 +1,12 @@
-# Omrani Security
+# OmraniSecurity
 
-## 👋 About Me
-- 🔭 Bug Bounty Hunter
-- 🔍 Finding vulnerabilities in open source projects
-- 🛡️ Cybersecurity Enthusiast
+## About Me
+- Bug Bounty Hunter
+- Finding vulnerabilities in open source projects
+- Cybersecurity Enthusiast
 
-## 🔗 Connect
-- [LinkedIn](https://linkedin.com/in/omranisecurity)
+## Connect
+- Email: mr.omrani81@gmail.com
+- LinkedIn: https://www.linkedin.com/in/omranisecurity/
 
 ---
-
-**Making the internet safer! 🚀**
